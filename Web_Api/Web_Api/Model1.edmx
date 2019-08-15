@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="partner_angular_sari_HuminerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Customer_tbl">
+          <Key>
+            <PropertyRef Name="custId" />
+          </Key>
+          <Property Name="custFName" Type="varchar" MaxLength="20" />
+          <Property Name="custLName" Type="varchar" MaxLength="20" />
+          <Property Name="custId" Type="varchar" MaxLength="9" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Package_tbl">
+          <Key>
+            <PropertyRef Name="packId" />
+          </Key>
+          <Property Name="packName" Type="varchar" MaxLength="20" />
+          <Property Name="packId" Type="varchar" MaxLength="9" Nullable="false" />
+          <Property Name="packQty" Type="int" />
+        </EntityType>
+        <EntityType Name="PackagesToSubcRibtion_tbl">
+          <Key>
+            <PropertyRef Name="subcId" />
+            <PropertyRef Name="packId" />
+          </Key>
+          <Property Name="subcId" Type="varchar" MaxLength="9" Nullable="false" />
+          <Property Name="packId" Type="varchar" MaxLength="9" Nullable="false" />
+          <Property Name="usingMinitues" Type="int" />
+        </EntityType>
+        <EntityType Name="Subcribtions">
+          <Key>
+            <PropertyRef Name="subcId" />
+          </Key>
+          <Property Name="subcId" Type="varchar" MaxLength="9" Nullable="false" />
+          <Property Name="subsName" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="SubcribtionToCast_tbl">
+          <Key>
+            <PropertyRef Name="Customer_tbl_custId" />
+            <PropertyRef Name="Subcribtions_subcId" />
+          </Key>
+          <Property Name="Customer_tbl_custId" Type="varchar" MaxLength="9" Nullable="false" />
+          <Property Name="Subcribtions_subcId" Type="varchar" MaxLength="9" Nullable="false" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <Association Name="FK__PackagesT__packI__45F365D3">
+          <End Role="Package_tbl" Type="Self.Package_tbl" Multiplicity="1" />
+          <End Role="PackagesToSubcRibtion_tbl" Type="Self.PackagesToSubcRibtion_tbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Package_tbl">
+              <PropertyRef Name="packId" />
+            </Principal>
+            <Dependent Role="PackagesToSubcRibtion_tbl">
+              <PropertyRef Name="packId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PackagesT__subcI__44FF419A">
+          <End Role="Subcribtions" Type="Self.Subcribtions" Multiplicity="1" />
+          <End Role="PackagesToSubcRibtion_tbl" Type="Self.PackagesToSubcRibtion_tbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subcribtions">
+              <PropertyRef Name="subcId" />
+            </Principal>
+            <Dependent Role="PackagesToSubcRibtion_tbl">
+              <PropertyRef Name="subcId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_SubcribtionToCast_tbl_Customer_tbl">
+          <End Role="Customer_tbl" Type="Self.Customer_tbl" Multiplicity="1" />
+          <End Role="SubcribtionToCast_tbl" Type="Self.SubcribtionToCast_tbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customer_tbl">
+              <PropertyRef Name="custId" />
+            </Principal>
+            <Dependent Role="SubcribtionToCast_tbl">
+              <PropertyRef Name="Customer_tbl_custId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_SubcribtionToCast_tbl_Subcribtions">
+          <End Role="Subcribtions" Type="Self.Subcribtions" Multiplicity="1" />
+          <End Role="SubcribtionToCast_tbl" Type="Self.SubcribtionToCast_tbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subcribtions">
+              <PropertyRef Name="subcId" />
+            </Principal>
+            <Dependent Role="SubcribtionToCast_tbl">
+              <PropertyRef Name="Subcribtions_subcId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="partner_angular_sari_HuminerModelStoreContainer">
+          <EntitySet Name="Customer_tbl" EntityType="Self.Customer_tbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Package_tbl" EntityType="Self.Package_tbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="PackagesToSubcRibtion_tbl" EntityType="Self.PackagesToSubcRibtion_tbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Subcribtions" EntityType="Self.Subcribtions" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SubcribtionToCast_tbl" EntityType="Self.SubcribtionToCast_tbl" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__PackagesT__packI__45F365D3" Association="Self.FK__PackagesT__packI__45F365D3">
+            <End Role="Package_tbl" EntitySet="Package_tbl" />
+            <End Role="PackagesToSubcRibtion_tbl" EntitySet="PackagesToSubcRibtion_tbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PackagesT__subcI__44FF419A" Association="Self.FK__PackagesT__subcI__44FF419A">
+            <End Role="Subcribtions" EntitySet="Subcribtions" />
+            <End Role="PackagesToSubcRibtion_tbl" EntitySet="PackagesToSubcRibtion_tbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK_SubcribtionToCast_tbl_Customer_tbl" Association="Self.FK_SubcribtionToCast_tbl_Customer_tbl">
+            <End Role="Customer_tbl" EntitySet="Customer_tbl" />
+            <End Role="SubcribtionToCast_tbl" EntitySet="SubcribtionToCast_tbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK_SubcribtionToCast_tbl_Subcribtions" Association="Self.FK_SubcribtionToCast_tbl_Subcribtions">
+            <End Role="Subcribtions" EntitySet="Subcribtions" />
+            <End Role="SubcribtionToCast_tbl" EntitySet="SubcribtionToCast_tbl" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="partner_angular_sari_HuminerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Customer_tbl">
+          <Key>
+            <PropertyRef Name="custId" />
+          </Key>
+          <Property Name="custFName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="custLName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="custId" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Subcribtions" Relationship="Self.SubcribtionToCast_tbl" FromRole="Customer_tbl" ToRole="Subcribtions" />
+        </EntityType>
+        <EntityType Name="Package_tbl">
+          <Key>
+            <PropertyRef Name="packId" />
+          </Key>
+          <Property Name="packName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="packId" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="packQty" Type="Int32" />
+          <NavigationProperty Name="PackagesToSubcRibtion_tbl" Relationship="Self.FK__PackagesT__packI__45F365D3" FromRole="Package_tbl" ToRole="PackagesToSubcRibtion_tbl" />
+        </EntityType>
+        <EntityType Name="PackagesToSubcRibtion_tbl">
+          <Key>
+            <PropertyRef Name="subcId" />
+            <PropertyRef Name="packId" />
+          </Key>
+          <Property Name="subcId" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="packId" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="usingMinitues" Type="Int32" />
+          <NavigationProperty Name="Package_tbl" Relationship="Self.FK__PackagesT__packI__45F365D3" FromRole="PackagesToSubcRibtion_tbl" ToRole="Package_tbl" />
+          <NavigationProperty Name="Subcribtions" Relationship="Self.FK__PackagesT__subcI__44FF419A" FromRole="PackagesToSubcRibtion_tbl" ToRole="Subcribtions" />
+        </EntityType>
+        <EntityType Name="Subcribtions">
+          <Key>
+            <PropertyRef Name="subcId" />
+          </Key>
+          <Property Name="subcId" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="subsName" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="PackagesToSubcRibtion_tbl" Relationship="Self.FK__PackagesT__subcI__44FF419A" FromRole="Subcribtions" ToRole="PackagesToSubcRibtion_tbl" />
+          <NavigationProperty Name="Customer_tbl" Relationship="Self.SubcribtionToCast_tbl" FromRole="Subcribtions" ToRole="Customer_tbl" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <Association Name="FK__PackagesT__packI__45F365D3">
+          <End Role="Package_tbl" Type="Self.Package_tbl" Multiplicity="1" />
+          <End Role="PackagesToSubcRibtion_tbl" Type="Self.PackagesToSubcRibtion_tbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Package_tbl">
+              <PropertyRef Name="packId" />
+            </Principal>
+            <Dependent Role="PackagesToSubcRibtion_tbl">
+              <PropertyRef Name="packId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__PackagesT__subcI__44FF419A">
+          <End Role="Subcribtions" Type="Self.Subcribtions" Multiplicity="1" />
+          <End Role="PackagesToSubcRibtion_tbl" Type="Self.PackagesToSubcRibtion_tbl" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Subcribtions">
+              <PropertyRef Name="subcId" />
+            </Principal>
+            <Dependent Role="PackagesToSubcRibtion_tbl">
+              <PropertyRef Name="subcId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="SubcribtionToCast_tbl">
+          <End Role="Customer_tbl" Type="Self.Customer_tbl" Multiplicity="*" />
+          <End Role="Subcribtions" Type="Self.Subcribtions" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="partner_angular_sari_HuminerEntities2" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Customer_tbl" EntityType="Self.Customer_tbl" />
+          <EntitySet Name="Package_tbl" EntityType="Self.Package_tbl" />
+          <EntitySet Name="PackagesToSubcRibtion_tbl" EntityType="Self.PackagesToSubcRibtion_tbl" />
+          <EntitySet Name="Subcribtions" EntityType="Self.Subcribtions" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+          <AssociationSet Name="FK__PackagesT__packI__45F365D3" Association="Self.FK__PackagesT__packI__45F365D3">
+            <End Role="Package_tbl" EntitySet="Package_tbl" />
+            <End Role="PackagesToSubcRibtion_tbl" EntitySet="PackagesToSubcRibtion_tbl" />
+          </AssociationSet>
+          <AssociationSet Name="FK__PackagesT__subcI__44FF419A" Association="Self.FK__PackagesT__subcI__44FF419A">
+            <End Role="Subcribtions" EntitySet="Subcribtions" />
+            <End Role="PackagesToSubcRibtion_tbl" EntitySet="PackagesToSubcRibtion_tbl" />
+          </AssociationSet>
+          <AssociationSet Name="SubcribtionToCast_tbl" Association="Self.SubcribtionToCast_tbl">
+            <End Role="Customer_tbl" EntitySet="Customer_tbl" />
+            <End Role="Subcribtions" EntitySet="Subcribtions" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="partner_angular_sari_HuminerModelStoreContainer" CdmEntityContainer="partner_angular_sari_HuminerEntities2">
+          <EntitySetMapping Name="Customer_tbl">
+            <EntityTypeMapping TypeName="partner_angular_sari_HuminerModel.Customer_tbl">
+              <MappingFragment StoreEntitySet="Customer_tbl">
+                <ScalarProperty Name="custFName" ColumnName="custFName" />
+                <ScalarProperty Name="custLName" ColumnName="custLName" />
+                <ScalarProperty Name="custId" ColumnName="custId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Package_tbl">
+            <EntityTypeMapping TypeName="partner_angular_sari_HuminerModel.Package_tbl">
+              <MappingFragment StoreEntitySet="Package_tbl">
+                <ScalarProperty Name="packName" ColumnName="packName" />
+                <ScalarProperty Name="packId" ColumnName="packId" />
+                <ScalarProperty Name="packQty" ColumnName="packQty" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PackagesToSubcRibtion_tbl">
+            <EntityTypeMapping TypeName="partner_angular_sari_HuminerModel.PackagesToSubcRibtion_tbl">
+              <MappingFragment StoreEntitySet="PackagesToSubcRibtion_tbl">
+                <ScalarProperty Name="subcId" ColumnName="subcId" />
+                <ScalarProperty Name="packId" ColumnName="packId" />
+                <ScalarProperty Name="usingMinitues" ColumnName="usingMinitues" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Subcribtions">
+            <EntityTypeMapping TypeName="partner_angular_sari_HuminerModel.Subcribtions">
+              <MappingFragment StoreEntitySet="Subcribtions">
+                <ScalarProperty Name="subcId" ColumnName="subcId" />
+                <ScalarProperty Name="subsName" ColumnName="subsName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="partner_angular_sari_HuminerModel.sysdiagrams">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="SubcribtionToCast_tbl" TypeName="partner_angular_sari_HuminerModel.SubcribtionToCast_tbl" StoreEntitySet="SubcribtionToCast_tbl">
+            <EndProperty Name="Customer_tbl">
+              <ScalarProperty Name="custId" ColumnName="Customer_tbl_custId" />
+            </EndProperty>
+            <EndProperty Name="Subcribtions">
+              <ScalarProperty Name="subcId" ColumnName="Subcribtions_subcId" />
+            </EndProperty>
+          </AssociationSetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

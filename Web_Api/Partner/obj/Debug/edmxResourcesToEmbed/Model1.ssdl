@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="partner_angular_sari_HuminerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customer_tbl">
+    <Key>
+      <PropertyRef Name="custId" />
+    </Key>
+    <Property Name="custFName" Type="varchar" MaxLength="20" />
+    <Property Name="custLName" Type="varchar" MaxLength="20" />
+    <Property Name="custId" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="adress" Type="nchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="Package_tbl">
+    <Key>
+      <PropertyRef Name="packId" />
+    </Key>
+    <Property Name="packName" Type="varchar" MaxLength="20" />
+    <Property Name="packId" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="packQty" Type="int" />
+  </EntityType>
+  <EntityType Name="PackagesToSubcRibtion_tbl">
+    <Key>
+      <PropertyRef Name="subcId" />
+      <PropertyRef Name="packId" />
+    </Key>
+    <Property Name="subcId" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="packId" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="usingMinitues" Type="int" />
+  </EntityType>
+  <EntityType Name="Subcribtions">
+    <Key>
+      <PropertyRef Name="subcId" />
+    </Key>
+    <Property Name="subcId" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="subsName" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="SubcribtionToCast_tbl">
+    <Key>
+      <PropertyRef Name="Customer_tbl_custId" />
+      <PropertyRef Name="Subcribtions_subcId" />
+    </Key>
+    <Property Name="Customer_tbl_custId" Type="varchar" MaxLength="9" Nullable="false" />
+    <Property Name="Subcribtions_subcId" Type="varchar" MaxLength="9" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__PackagesT__packI__45F365D3">
+    <End Role="Package_tbl" Type="Self.Package_tbl" Multiplicity="1" />
+    <End Role="PackagesToSubcRibtion_tbl" Type="Self.PackagesToSubcRibtion_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Package_tbl">
+        <PropertyRef Name="packId" />
+      </Principal>
+      <Dependent Role="PackagesToSubcRibtion_tbl">
+        <PropertyRef Name="packId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PackagesT__subcI__44FF419A">
+    <End Role="Subcribtions" Type="Self.Subcribtions" Multiplicity="1" />
+    <End Role="PackagesToSubcRibtion_tbl" Type="Self.PackagesToSubcRibtion_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subcribtions">
+        <PropertyRef Name="subcId" />
+      </Principal>
+      <Dependent Role="PackagesToSubcRibtion_tbl">
+        <PropertyRef Name="subcId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubcribtionToCast_tbl_Customer_tbl">
+    <End Role="Customer_tbl" Type="Self.Customer_tbl" Multiplicity="1" />
+    <End Role="SubcribtionToCast_tbl" Type="Self.SubcribtionToCast_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer_tbl">
+        <PropertyRef Name="custId" />
+      </Principal>
+      <Dependent Role="SubcribtionToCast_tbl">
+        <PropertyRef Name="Customer_tbl_custId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SubcribtionToCast_tbl_Subcribtions">
+    <End Role="Subcribtions" Type="Self.Subcribtions" Multiplicity="1" />
+    <End Role="SubcribtionToCast_tbl" Type="Self.SubcribtionToCast_tbl" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Subcribtions">
+        <PropertyRef Name="subcId" />
+      </Principal>
+      <Dependent Role="SubcribtionToCast_tbl">
+        <PropertyRef Name="Subcribtions_subcId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="partner_angular_sari_HuminerModelStoreContainer">
+    <EntitySet Name="Customer_tbl" EntityType="Self.Customer_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Package_tbl" EntityType="Self.Package_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PackagesToSubcRibtion_tbl" EntityType="Self.PackagesToSubcRibtion_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Subcribtions" EntityType="Self.Subcribtions" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SubcribtionToCast_tbl" EntityType="Self.SubcribtionToCast_tbl" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__PackagesT__packI__45F365D3" Association="Self.FK__PackagesT__packI__45F365D3">
+      <End Role="Package_tbl" EntitySet="Package_tbl" />
+      <End Role="PackagesToSubcRibtion_tbl" EntitySet="PackagesToSubcRibtion_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PackagesT__subcI__44FF419A" Association="Self.FK__PackagesT__subcI__44FF419A">
+      <End Role="Subcribtions" EntitySet="Subcribtions" />
+      <End Role="PackagesToSubcRibtion_tbl" EntitySet="PackagesToSubcRibtion_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubcribtionToCast_tbl_Customer_tbl" Association="Self.FK_SubcribtionToCast_tbl_Customer_tbl">
+      <End Role="Customer_tbl" EntitySet="Customer_tbl" />
+      <End Role="SubcribtionToCast_tbl" EntitySet="SubcribtionToCast_tbl" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SubcribtionToCast_tbl_Subcribtions" Association="Self.FK_SubcribtionToCast_tbl_Subcribtions">
+      <End Role="Subcribtions" EntitySet="Subcribtions" />
+      <End Role="SubcribtionToCast_tbl" EntitySet="SubcribtionToCast_tbl" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

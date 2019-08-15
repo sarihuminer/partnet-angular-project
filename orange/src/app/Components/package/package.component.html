@@ -1,0 +1,20 @@
+<table class="tab" *ngIf="packageList">
+    <thead>
+        <tr>
+                <th class="table-dark">PackName</th>
+                <th class="table-dark">PackCode</th>
+                <th class="table-dark">Qty</th>
+                <th class="table-dark">Survivor</th>
+    </tr>
+            
+    </thead>
+
+    <tbody>
+            <tr *ngFor="let item of packageList">
+                    <td class="bg-primary">{{item.packName}}</td>
+                    <td class="bg-success">{{item.packId}}</td>
+                    <td class="bg-warning">{{item.packQty}}</td>
+                    <td class="bg-danger">{{item.Survivor}}</td>
+            </tr>
+    </tbody>
+</table>

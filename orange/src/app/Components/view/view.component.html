@@ -1,0 +1,52 @@
+<body>
+<h1><span class="blue"></span>PARTNER <span class="blue"></span> <span class="yellow">the best communicate company!!</span></h1>
+  <h2> information of our customers and subcribtions</h2>
+  
+
+<table class="tab tble-bordered" *ngIf="cust" >
+  <tr>
+    <th class="table-dark">id cust&nbsp; </th>
+    <td class="bg-primary">{{ cust.custId }}&nbsp;</td>
+      <th class="table-dark">firstName cust&nbsp;</th>
+      <td class="bg-success">{{ cust.custFName }}&nbsp;</td>
+        <th class="table-dark">lastName cust&nbsp;</th>
+        <td class="bg-warning">{{ cust.custLName }}&nbsp;</td>
+          <th class="table-dark">address cust&nbsp;</th>
+          <td class="bg-danger">{{ cust.adress }}&nbsp;</td>
+             </tr>
+                        </table>
+      <table  *ngIf="cust&&cust.Subcribtionlist "  class="container" >
+    <thead>
+      <tr>
+        <th><h1>SubscriptionId</h1></th>
+        <th><h1>SubscriptionName</h1></th>
+        <th><h1>Click to subscribtion</h1></th>
+        
+      </tr>
+    </thead>
+    <tbody>
+     
+      <tr *ngFor=" let item of cust.Subcribtionlist" >
+        <td>{{item.subcId}}</td>
+        <td>{{item.subsName}}</td>
+        <td  (click)="getPackageSub(item.subcId)">details of Package</td>
+       <!-- pack=item.packageList -->
+</tr>
+    </tbody>
+  </table>
+</body>
+<app-package [packageList]="pack"></app-package>
+<!-- <app-package [packageList]="pack"></app-package> -->
+   
+
+
+
+
+
+
+
+
+
+
+
+

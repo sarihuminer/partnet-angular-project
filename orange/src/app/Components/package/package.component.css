@@ -1,0 +1,17 @@
+.tab  tr{
+    border: #0E1119 3px solid;
+    color:black;
+  }
+  .tab  th{
+    border: #0E1119 3px solid;
+    color:black;
+  }
+  .tab  td{
+    border: #0E1119 3px solid;
+    color:black;
+  }
+  .tab {border: #0E1119 3px solid;
+    margin: auto;
+ font-family: 'Times New Roman';
+ font-size:25px;}
+ body{background-color:rgb(252, 135, 2)}

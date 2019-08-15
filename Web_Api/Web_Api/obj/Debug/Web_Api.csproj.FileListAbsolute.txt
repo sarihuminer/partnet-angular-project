@@ -1,0 +1,258 @@
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Web_Api.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\0000000000 שנה ב - כיתה ו\אורית גלעדי\web\angular\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll.config
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.pdb
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CopyComplete
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+Y:\0000הנדסאיות תשעט\שנה ב\שנה ב' חסידי בוקר\שרי הומינר\webCourses\angular shishi\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.rsp
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.exe
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.rsp
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll.config
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.pdb
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Owin.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Cors.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+F:\הנדסאות תוכנה\שנה ב\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.exe.config
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csc.rsp
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.exe
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\csi.rsp
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.AppContext.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.exe.config
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\vbc.rsp
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll.config
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Web_Api.pdb
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Owin.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Cors.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Microsoft.Owin.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Net.Http.Formatting.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Cors.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.Owin.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\Newtonsoft.Json.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\bin\System.Web.Http.WebHost.xml
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csprojResolveAssemblyReference.cache
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csproj.CoreCompileInputs.cache
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.dll
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.pdb
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Web_Api.csprojFakesResolveAssemblyReference.cache
+C:\Users\מחשב\Desktop\angular\projectOrange_Sari\Web_Api\Web_Api\obj\Debug\Fakes\fakes.args
